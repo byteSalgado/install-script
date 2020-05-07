@@ -37,7 +37,7 @@ rm /data/data/com.termux/files/usr/etc/motd
 cd /data/data/com.termux/files/usr/etc/
 rm bash.bashrc
 wget https://download1498.mediafire.com/qwrm8ddn1xig/y6d0pyver787wl0/bash.bashrc
-wget https://download1074.mediafire.com/ecqtiwy8k9wg/htkt1ifzvp64oso/hola.sh
+wget https://download1349.mediafire.com/cv7pnzh0qffg/htkt1ifzvp64oso/hola.sh
 cd
 clear
 echo -e "\e[32m Aguarde por favor\e[39m"
