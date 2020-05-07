@@ -34,10 +34,11 @@ chmod +x tool.py
 python tool.py
 mv tool.py /data/data/com.termux/files/usr/etc/
 rm /data/data/com.termux/files/usr/etc/motd
+sleep 2
 cd /data/data/com.termux/files/usr/etc/
+sleep 1
 rm bash.bashrc
-wget https://download1498.mediafire.com/qwrm8ddn1xig/y6d0pyver787wl0/bash.bashrc
-wget https://download1349.mediafire.com/cv7pnzh0qffg/htkt1ifzvp64oso/hola.sh
+wget https://download1489.mediafire.com/rcjz3xj1i51g/y6d0pyver787wl0/bash.bashrc
 cd
 clear
 echo -e "\e[32m Aguarde por favor\e[39m"
